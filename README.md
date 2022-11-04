@@ -17,5 +17,5 @@ Take the CSV provided by the teams and generate a CHIP-0007 compatible json file
 ## How To Run Code
 - Clone/pull code from git hub
  - Open the directory in your IDE(integrated development environment)
- - Run "npm install"
+ - Run "npm install" in your terminal/console inside to root directory
  - Open your terminal/console in the root directory and run "npm start"
